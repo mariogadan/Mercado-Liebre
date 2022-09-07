@@ -1,0 +1,30 @@
+
+#header-back{
+    background-color: #EAC926;
+    font-family: 'Roboto';
+}
+
+.center-imagen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 50%;*/
+  }
+
+#precios{
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: center;
+}
+
+#descuentos{
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: center;
+}
+
+#descripciones{
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: center;
+}
