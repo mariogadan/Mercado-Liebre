@@ -3,8 +3,6 @@ const express = require('Express');
 const app = express();
 const path = require('path');
 
-
-
 app.use(express.static(path.join(__dirname,'./public')));
 // levanto servidor y confirmo con mensaje
 app.listen(process.env.PORT || 3000, function() {console.log('Servidor corriendo con éxito');}) 
