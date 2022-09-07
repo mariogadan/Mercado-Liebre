@@ -1,5 +1,5 @@
 // requiero modulos y cargo express
-const express = require('Express');
+const express = require('express');
 const app = express();
 const path = require('path');
 
